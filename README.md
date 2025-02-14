@@ -31,6 +31,7 @@ Notes:
 
 
 **To Download (yes, no setup or installation**
+
 Option 1:
 1. download only the KritaHTD.exe and run.
 2. That's it.
