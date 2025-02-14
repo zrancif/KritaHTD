@@ -1,5 +1,5 @@
 # KritaHTD
-Krita: Hold to Draw like in MSPaint
+**Krita: Hold to Draw like in MSPaint**
 
 Don't wanna buy a drawing tablet?
     Find drawing tablet weird to use?
@@ -26,5 +26,16 @@ Important Notes:
     2. Will not work on other apps
 
 Notes:
-    I did this because I don't wanna download extra files for a simple function. So I made this small program as small as I possibly can.
-    Yeah... That's why.
+    *I did this because I don't wanna download extra files for a simple function. So I made this small program as small as I possibly can.
+    Yeah... That's why.*
+
+
+**To Download (yes, no setup or installation**
+Option 1:
+1. download only the KritaHTD.exe and run.
+2. That's it.
+   
+Option 2 (If you wanna modify it yourself): 
+1. download the KritaHTD.cpp
+2. modify what u want
+3. compile it yourself in any compiler
